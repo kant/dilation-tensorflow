@@ -5,7 +5,7 @@ Pretrained weights have been converted to TensorFlow from the [original Caffe im
 
 Model pretrained either on CityScapes or on CamVid datasets is available.
 
-You you're looking instead for a *Keras+Theano* implementation of this very same network you can find it [here](https://github.com/DavideA/dilation-keras).
+If you're looking instead for a *Keras+Theano* implementation of this very same network you can find it [here](https://github.com/DavideA/dilation-keras).
 
 ## Examples
 
